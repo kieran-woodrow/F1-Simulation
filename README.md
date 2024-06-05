@@ -4,14 +4,15 @@ F1 Simulator
 ---
 ## 🗂️ Table of Contents
 
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Running the Project](#running-the-project)
-- [Screenshots](#screenshots)
+- [Project Overview](#-project-overview)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Running the Project](#-running-the-project)
+- [Screenshots](#-screenshots)
 ---
 
-## :books: Project Overview
+## 📚 Project Overview
 This is an F1 simulation of a race weekend. It uses 12 design patterns, all build in C++.
 The design patterns used are:
 - Factory Design Pattern
@@ -29,7 +30,7 @@ The design patterns used are:
 
 ---
 
-## :hammer_and_wrench: Technology Stack 
+## 🛠️ Technology Stack 
 
 ### Project Code Language Used
 
@@ -55,7 +56,7 @@ For ease, this project has a make file.
 
 ---
 
-## 🏃🏻‍♂️ Running the Project
+## 🏃🏻‍♂️ Running The Project
 
 1. Fork the repo
 2. Open the terminal in the Code project directory.
