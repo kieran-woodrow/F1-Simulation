@@ -2,7 +2,7 @@
 F1 Simulator
 
 ---
-## 🗂️ Table of Contents
+## 🗂️ Table Of Contents
 
 - [Project Overview](#-project-overview)
 - [Technology Stack](#-technology-stack)
