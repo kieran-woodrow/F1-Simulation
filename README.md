@@ -42,9 +42,9 @@ The design patterns used are:
 
 ## 📝 Installation
 
-1. **Clone the repository:**
-2. **Navigate to the project directory:**
-3. **Install dependencies:**
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
    Install a C++ compiler such as gcc and GDB.
 
 ---
@@ -67,8 +67,6 @@ For ease, this project has a make file.
 
 ## 📷 Screenshots
 
-Include screenshots to help users understand what the project looks like. You can add images using the following format:
-
 ![When you run the program](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png)
 
 ![Some data displayed](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png)
@@ -78,5 +76,3 @@ Include screenshots to help users understand what the project looks like. You ca
 ![Map of race](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.20.png)
 
 ![Results table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.56.png)
-
----
