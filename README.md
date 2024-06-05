@@ -69,13 +69,13 @@ For ease, this project has a make file.
 
 Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
-![When you run the program]((https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
+![When you run the program](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
 
-![Some data displayed]((https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
+![Some data displayed](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
 
-![Car parts efficienty table]((https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
+![Car parts efficienty table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
 
-![Map of race]((https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.20.png))
+![Map of race](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.20.png))
 
 ![Results table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.56.png))
 
