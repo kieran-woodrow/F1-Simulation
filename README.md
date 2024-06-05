@@ -57,10 +57,11 @@ For ease, this project has a make file.
 
 ## 🏃🏻‍♂️ Running the Project
 
-1. Open terminal in the project directory.
-2. Run the command 'make clean'. This will clean any linker files. The behind the scenes is: rm -f *.o main
-3. Run the command 'make'. This will build all linker files (.o files). The command behind the scenes is: g++ -g -o main *.o -std=c++11 and g++ -c -g *.cpp
-4. Run the command 'make'. This will run the command in terminal. The command behind the scenes is: ./main
+1. Fork the repo
+2. Open the terminal in the Code project directory.
+3. Run the command 'make clean'. This will clean any linker files. The behind the scenes is: rm -f *.o main
+4. Run the command 'make'. This will build all linker files (.o files). The command behind the scenes is: g++ -g -o main *.o -std=c++11 and g++ -c -g *.cpp
+5. Run the command 'make'. This will run the command in terminal. The command behind the scenes is: ./main
 
 ---
 
@@ -68,13 +69,14 @@ For ease, this project has a make file.
 
 Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
-![Screenshot 1](path/to/screenshot1.png)
-*Description of what the screenshot shows.*
+![When you run the program]([path/to/screenshot1.png](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
 
-![Screenshot 2](path/to/screenshot2.png)
-*Description of what the screenshot shows.*
+![Some data displayed]([path/to/screenshot2.png](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Description of what the screenshot shows.*
+![Car parts efficienty table]([screenshots/screenshot2.png](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
+
+![Map of race]([screenshots/screenshot2.png](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.20.png))
+
+![Results table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.56.png))
 
 ---
