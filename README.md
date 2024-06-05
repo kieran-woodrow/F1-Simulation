@@ -8,7 +8,7 @@ F1 Simulator
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Running the Project](#-running-the-project)
+- [Running The Project](#-running-he-project)
 - [Screenshots](#-screenshots)
 ---
 
