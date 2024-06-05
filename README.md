@@ -11,7 +11,7 @@ F1 Simulator
 - [Screenshots](#screenshots)
 ---
 
-## Project Description
+## :books: Project Overview
 This is an F1 simulation of a race weekend. It uses 12 design patterns, all build in C++.
 The design patterns used are:
 - Factory Design Pattern
@@ -28,6 +28,17 @@ The design patterns used are:
 - Command Design Pattern
 
 ---
+
+## :hammer_and_wrench: Technology Stack 
+
+### Project code language
+
+ ![AGPL License](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 💻 IDE
+
+ ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ## Installation
 
