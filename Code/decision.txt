@@ -1,0 +1,11 @@
+CurveLeft
+LeftTurn
+Straight
+Rightturn
+Straight
+CurveLeft
+LeftTurn
+Straight
+CurveRight
+LeftTurn
+Straight

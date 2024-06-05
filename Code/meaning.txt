@@ -1,0 +1,34 @@
+a point along the airfoil or wing about which the moment coefficient does not vary with an angle of attack change.
+the cross section of a wing. The airfoil shape and variations in angle of attack are primarily responsible for the lift and profile drag of the wing.
+defined as the angle between the plane of the wing (airfoil chord) and the direction of motion (free stream velocity). The angle of attack can be varied to increase or decrease the lift acting on the wing. An increase in lift often results in an increase in drag.
+A point along the airfoil about which the moment due to the lift is zero, i.e., it is the point of action of the lift. The center of pressure will change its position when the angle of attack changes.
+The chord is the dimension of the airfoil from its leading edge to trailing edge.
+a measure of the vorticity in the flow field. For an inviscid flow field, the lift is equal to the product of the circulation about the airfoil, the density and the velocity.
+The term given to a variety of numerical mathematical techniques applied to solving the equations that govern fluid flows and aerodynamics.
+The mass of a substance contained in a given volume divided by the volume. For a incompressible fluid, the density is considered to be constant throughout the flow field. However, for a compressible fluid, the density can vary from one location to the next in the flow field. The speed of sound in a fluid depends on the ratio of pressure changes to density changes in the fluid.
+aerodynamic force opposing the direction of motion. Drag can be due to surface viscosity (friction drag), pressure differences due to the shape of an object (form drag), lift acting on an finite wing (induced drag) and other energy loss mechanisms in the flow such as wave drag due to shock waves and inefficiencies in engines.
+defined as the drag/(dynamic pressure * reference area). The reference area is usually the plan-form or flat projection (the wing's shadow at noon) area of the wing.
+defied as the product of the density and the square of the velocity divided by two. The dynamic pressure has units of pressure, i.e. Force/Area. The dynamic pressure is used to non-dimensionalize forces and pressures in aerodynamics.
+the angle between the deflected flap and the chord line. The angle is positive for a downwards deflection of the flap. Deflect the flap downwards to increase the airfoil's lift.
+a force acting perpendicular to the direction of flight. The lift is equal to the fluid density multiplied by the circulation about the airfoil and the free stream velocity. In level flight, the lift developed by an airplane's must be equal to the weight of the entire airplane.
+defined as the lift/(dynamic pressure * reference area). The reference area is usually the plan-form area of a wing or horizontal projection of the wing.
+This chord is located along the wing and has the aerodynamic property of the two-dimensional wing.
+wing cross section designs invented by the NACA organization. NACA eventually became NASA (National Aeronautics and Space Administration). Here are a few popular airplanes that have NACA airfoil wings:
+This numerical method places singularities along the airfoil. In the case of VisualFoil, the singularities are vortices. The vorticity is distributed linearly along the panel.
+a hinge attachment near the trailing edge of an airfoil. The length of the flap is measured as a percentage of the chord and the deflection is measured in degrees.
+a non-dimensional form of the pressure. It is defined as the difference of the free stream and local static pressures all divided by the dynamic pressure.
+At low angles of attack, the lift developed by an airfoil or wing will increase with an increase in angle of attack. However, there is a maximum angle of attack after which the lift will decrease instead of increase with increasing angle of attack. This is know as stall. Knowing the stall angle of attack is extremely important for predicting the minimum landing and takeoff speeds of an airplane.
+Contours in the flow field that are tangent to the velocity vector.
+The total weight of the airplane divided by the planform area of the wing.
+the total length of the wing.
+keeps the tires from locking while braking; the car can still be handled without losing control.
+the ACC system scans the area ahead of a car for objects - mainly other cars - and applies the brakes automatically if a collision is likely to occur.
+In a computer, the basic work register of the computer. In hydraulics or pneumatics, a device for storing pressurized fluid.
+A device which performs a mechanical action in response to an input signal, which may be either electric or fluidic.
+an electronic circuit or device that converts an analog input signal into a digital signal.
+a combination of infrastructure and in-vehicle displays that communicate information to the driver (emergency and general.)
+The components through which combustion air is induced into the engine.
+An electronic device that stores an electrical charge.
+A device used to place a load on an engine and measure its performance.
+a valve located in your car's cooling system. Its job is to regulate the amount of coolant that is recirculated back into the engine and how much is cooled via the radiator prior to being recirculated
+typically consists of a steering gear. This can be a steering gear box or a rack and pinion assembly. This is connected mechanically to the steering wheel by way of a steering shaft, which typically does not need replacement. The steering gear is then connected to the steering knuckles with tie rod ends.

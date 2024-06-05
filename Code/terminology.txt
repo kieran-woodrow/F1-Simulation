@@ -1,0 +1,34 @@
+Aerodynamic Center
+Airfoil
+Angle of Attack
+Center of Pressure
+Chord
+Circulation
+Computational Fluid Dynamics
+Density
+Drag
+Drag Coefficient
+Dynamic Pressure
+Flap Deflection Angle
+Lift
+Lift Coefficient
+Mean aerodynamic chord
+NACA Airfoils
+Panel Method
+Plain Flap
+Pressure Coefficient
+Stall
+Streamlines
+Wing Loading
+Wing Span
+Antilock Braking System
+Adaptive Cruise Control
+Accumulator
+Analog-to-Digital converter
+Advanced Driver Information Systems
+Air Induction System
+Capacitor
+Dynamometer
+Dead-Reckoning
+Thermostats
+Steering Parts
