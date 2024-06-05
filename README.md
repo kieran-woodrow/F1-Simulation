@@ -9,9 +9,6 @@ F1 Simulator
 - [Usage](#usage)
 - [Running the Project](#running-the-project)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Project Description
