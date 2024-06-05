@@ -1,8 +1,8 @@
-# Project Name
+# 🏷️ Project Name
 F1 Simulator
 
 ---
-## Table of Contents
+## 🗂️ Table of Contents
 
 - [Project Description](#project-description)
 - [Installation](#installation)
@@ -31,7 +31,7 @@ The design patterns used are:
 
 ## :hammer_and_wrench: Technology Stack 
 
-### Project code language
+### Project Code Language Used
 
  ![AGPL License](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -40,7 +40,7 @@ The design patterns used are:
  ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## Installation
+## 📝 Installation
 
 1. **Clone the repository:**
 2. **Navigate to the project directory:**
@@ -49,13 +49,13 @@ The design patterns used are:
 
 ---
 
-## Usage
+## 🎮 Usage
 
 For ease, this project has a make file. 
 
 ---
 
-## Running the Project
+## 🏃🏻‍♂️ Running the Project
 
 1. Open terminal in the project directory.
 2. Run the command 'make clean'. This will clean any linker files. The behind the scenes is: rm -f *.o main
@@ -64,7 +64,7 @@ For ease, this project has a make file.
 
 ---
 
-## Screenshots
+## 📷 Screenshots
 
 Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
